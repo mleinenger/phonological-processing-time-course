@@ -7,3 +7,9 @@ This repository contains data files and associated R scripts associated with the
 </ul>
 
 Accepted version of the manuscript: https://mallorieleinenger.files.wordpress.com/2018/06/leinenger_2018_accepted1.pdf
+
+- SCA.csv: Experiment 1 data file
+- SCB.csv: Experiment 2 data file
+- DCA.csv: Experiment 3 data file
+- DCB.csv: Experiment 4 data file
+
